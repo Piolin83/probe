@@ -1,1 +1,2 @@
 # probe
+print "hello"
